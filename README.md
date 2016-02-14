@@ -1,2 +1,3 @@
 # hello-world
 Learning about GitHub and creating a repository. Maybe I'll deposit my LogoTurtle and LightLogo files here... or there.
+I am a big fan of programming environments that use Logo to teach programming to children. This timeless language is still around today in many tried and true forms as well as new and growing environments like Snap!, TurtleBlocks, MusicBlocks and BeetleBlocks. Users can use programming to create interesting artifacts along their learning journey. The simple language is easy to begin using and affords programmers to set to the work of creating, solving problems and enjoying programming without the anxiety of syntax. 
